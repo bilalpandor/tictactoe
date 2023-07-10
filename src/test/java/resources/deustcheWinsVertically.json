@@ -1,0 +1,16 @@
+{
+  "boardXAxis": "3",
+  "boardYAxis": "3",
+  "playerOneName": "Deustche Bank",
+  "playerTwoName": "Bilal Pandor",
+  "playerOneMoves": [
+    "3:1",
+    "3:2",
+    "3:3"
+  ],
+  "playerTwoMoves": [
+    "1:1",
+    "2:3",
+    "2:1"
+  ]
+}
