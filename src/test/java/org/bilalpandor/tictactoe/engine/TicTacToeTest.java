@@ -20,7 +20,7 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertThrows;
 
 @ExtendWith(MockitoExtension.class)
-class TicTacToeTest {
+public class TicTacToeTest {
 
 
     //region Create Game
